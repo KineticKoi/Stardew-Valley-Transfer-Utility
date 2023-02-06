@@ -1,5 +1,5 @@
 # Stardew-Valley-Transfer-Utility
-![This is a junimo](https://github.com/KineticKoi/Stardew-Valley-Transfer-Utility/blob/main/shortcutIcon.png)
+![This is a photo of the app](https://github.com/KineticKoi/Stardew-Valley-Transfer-Utility/blob/main/AppExamplePhoto.png)
 
 <hr>
 
