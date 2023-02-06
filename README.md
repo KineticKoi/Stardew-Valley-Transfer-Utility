@@ -1,6 +1,9 @@
 # Stardew-Valley-Transfer-Utility
 
 ![This is a junimo](https://github.com/KineticKoi/Stardew-Valley-Transfer-Utility/blob/main/shortcutIcon.png)
+
+<hr>
+
 A Windows application designed to transfer Stardew Valley saves to and from Android devices
 
 DOWNLOAD THE RELEASE:
